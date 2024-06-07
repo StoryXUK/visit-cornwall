@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
     
-    Template Name: Gowilds - Tours and Travel HTML Template
+    Template Name: Cornwall
     Template URI: site.com
     Description: Gowilds is a modern Adventure Tours and Travel HTML Template designed for all activities, sports, hiking, or outdoor adventures.
     Author: WebTend 
